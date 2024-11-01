@@ -33,8 +33,7 @@ Example response:
 {
   "id": 1,
   "title": "The Great Gatsby",
-  "author": "F.
-  Scott Fitzgerald",
+  "author": "F.Scott Fitzgerald",
   "price": 12.99
 }
 ```
